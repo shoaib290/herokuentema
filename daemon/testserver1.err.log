@@ -1,0 +1,40 @@
+node:events:356
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:94:28)
+    at Socket.<anonymous> (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:391:22)
+    at endReadableNT (node:internal/streams/readable:1307:12)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:423:8)
+    at Protocol.emit (node:events:379:20)
+    at Protocol._delegateError (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:94:28)
+    [... lines matching original stack trace ...]
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+D:\Technologies\React\React-software-apps\stichpad-server\index.js:107
+    if (error) throw error;
+               ^
+
+Error: Cannot enqueue Query after fatal error.
+    at Protocol._validateEnqueue (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:212:16)
+    at Protocol._enqueue (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Technologies\React\React-software-apps\stichpad-server\index.js:105:6
+    at Layer.handle [as handle_request] (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Technologies\React\React-software-apps\stichpad-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\express\lib\router\index.js:335:12) {
+  code: 'PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR',
+  fatal: false
+}

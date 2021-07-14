@@ -1,0 +1,58 @@
+Server is up and running on port 3001
+Succeed and connection thread id is  8
+Server is up and running on port 3001
+These is error while connecting to db Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1139:16)
+    --------------------
+    at Protocol._enqueue (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\stichpad-server\index.js:16:4)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+Server is up and running on port 3001
+These is error while connecting to db Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1139:16)
+    --------------------
+    at Protocol._enqueue (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\stichpad-server\index.js:16:4)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+Server is up and running on port 3001
+These is error while connecting to db Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1139:16)
+    --------------------
+    at Protocol._enqueue (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\stichpad-server\index.js:16:4)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+Server is up and running on port 3001
+These is error while connecting to db Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1139:16)
+    --------------------
+    at Protocol._enqueue (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (D:\Technologies\React\React-software-apps\stichpad-server\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\stichpad-server\index.js:16:4)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47

@@ -1,0 +1,260 @@
+2021-03-12 00:57:41 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-12 00:57:41 - Started 4636
+2021-03-12 00:59:29 - Stopping testserver2.exe
+2021-03-12 00:59:29 - ProcessKill 4636
+2021-03-12 00:59:29 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-03-12 00:59:56 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-12 00:59:56 - Started 720
+2021-03-14 12:35:24 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-14 12:35:24 - Started 5972
+2021-03-15 15:41:42 - Stopping testserver2.exe
+2021-03-15 15:41:42 - ProcessKill 5972
+2021-03-15 15:41:42 - Found child process: 5980 Name: conhost.exe
+2021-03-15 15:41:42 - Found child process: 3012 Name: node.exe
+2021-03-15 15:41:42 - Stopping process 5980
+2021-03-15 15:41:42 - Send SIGINT 5980
+2021-03-15 15:41:42 - SIGINT to 5980 failed - Killing as fallback
+2021-03-15 15:41:42 - Stopping process 3012
+2021-03-15 15:41:42 - Send SIGINT 3012
+2021-03-15 15:41:42 - SIGINT to 3012 failed - Killing as fallback
+2021-03-15 15:41:43 - Stopping process 5972
+2021-03-15 15:41:43 - Send SIGINT 5972
+2021-03-15 15:41:43 - SIGINT to 5972 failed - Killing as fallback
+2021-03-15 15:41:43 - Finished testserver2.exe
+2021-03-15 15:41:52 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 15:41:52 - Started 4876
+2021-03-15 17:36:54 - Stopping testserver2.exe
+2021-03-15 17:36:54 - ProcessKill 4876
+2021-03-15 17:36:54 - Found child process: 6648 Name: conhost.exe
+2021-03-15 17:36:54 - Found child process: 16788 Name: node.exe
+2021-03-15 17:36:54 - Stopping process 6648
+2021-03-15 17:36:54 - Send SIGINT 6648
+2021-03-15 17:36:54 - SIGINT to 6648 failed - Killing as fallback
+2021-03-15 17:36:54 - Stopping process 16788
+2021-03-15 17:36:54 - Send SIGINT 16788
+2021-03-15 17:36:54 - SIGINT to 16788 failed - Killing as fallback
+2021-03-15 17:36:54 - Stopping process 4876
+2021-03-15 17:36:54 - Send SIGINT 4876
+2021-03-15 17:36:54 - SIGINT to 4876 failed - Killing as fallback
+2021-03-15 17:36:54 - Finished testserver2.exe
+2021-03-15 17:37:02 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 17:37:02 - Started 5900
+2021-03-15 17:41:31 - Stopping testserver2.exe
+2021-03-15 17:41:31 - ProcessKill 5900
+2021-03-15 17:41:31 - Found child process: 2380 Name: conhost.exe
+2021-03-15 17:41:31 - Found child process: 4944 Name: node.exe
+2021-03-15 17:41:31 - Stopping process 2380
+2021-03-15 17:41:31 - Send SIGINT 2380
+2021-03-15 17:41:31 - SIGINT to 2380 failed - Killing as fallback
+2021-03-15 17:41:31 - Stopping process 4944
+2021-03-15 17:41:31 - Send SIGINT 4944
+2021-03-15 17:41:31 - SIGINT to 4944 failed - Killing as fallback
+2021-03-15 17:41:31 - Stopping process 5900
+2021-03-15 17:41:31 - Send SIGINT 5900
+2021-03-15 17:41:31 - SIGINT to 5900 failed - Killing as fallback
+2021-03-15 17:41:31 - Finished testserver2.exe
+2021-03-15 17:41:39 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 17:41:39 - Started 13248
+2021-03-15 17:48:08 - Stopping testserver2.exe
+2021-03-15 17:48:08 - ProcessKill 13248
+2021-03-15 17:48:08 - Found child process: 15884 Name: conhost.exe
+2021-03-15 17:48:08 - Found child process: 7284 Name: node.exe
+2021-03-15 17:48:08 - Stopping process 15884
+2021-03-15 17:48:08 - Send SIGINT 15884
+2021-03-15 17:48:08 - SIGINT to 15884 failed - Killing as fallback
+2021-03-15 17:48:08 - Stopping process 7284
+2021-03-15 17:48:08 - Send SIGINT 7284
+2021-03-15 17:48:08 - SIGINT to 7284 failed - Killing as fallback
+2021-03-15 17:48:08 - Stopping process 13248
+2021-03-15 17:48:08 - Send SIGINT 13248
+2021-03-15 17:48:08 - SIGINT to 13248 failed - Killing as fallback
+2021-03-15 17:48:08 - Finished testserver2.exe
+2021-03-15 17:48:14 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 17:48:14 - Started 17608
+2021-03-15 19:36:23 - Stopping testserver2.exe
+2021-03-15 19:36:23 - ProcessKill 17608
+2021-03-15 19:36:24 - Found child process: 3984 Name: conhost.exe
+2021-03-15 19:36:24 - Found child process: 20308 Name: node.exe
+2021-03-15 19:36:24 - Stopping process 3984
+2021-03-15 19:36:24 - Send SIGINT 3984
+2021-03-15 19:36:24 - SIGINT to 3984 failed - Killing as fallback
+2021-03-15 19:36:24 - Stopping process 20308
+2021-03-15 19:36:24 - Send SIGINT 20308
+2021-03-15 19:36:24 - SIGINT to 20308 failed - Killing as fallback
+2021-03-15 19:36:24 - Stopping process 17608
+2021-03-15 19:36:24 - Send SIGINT 17608
+2021-03-15 19:36:24 - SIGINT to 17608 failed - Killing as fallback
+2021-03-15 19:36:24 - Finished testserver2.exe
+2021-03-15 19:36:31 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 19:36:31 - Started 15668
+2021-03-15 22:13:51 - Stopping testserver2.exe
+2021-03-15 22:13:51 - ProcessKill 15668
+2021-03-15 22:13:51 - Found child process: 4576 Name: conhost.exe
+2021-03-15 22:13:51 - Found child process: 8568 Name: node.exe
+2021-03-15 22:13:51 - Stopping process 4576
+2021-03-15 22:13:51 - Send SIGINT 4576
+2021-03-15 22:13:51 - SIGINT to 4576 failed - Killing as fallback
+2021-03-15 22:13:51 - Stopping process 8568
+2021-03-15 22:13:51 - Send SIGINT 8568
+2021-03-15 22:13:51 - SIGINT to 8568 failed - Killing as fallback
+2021-03-15 22:13:51 - Stopping process 15668
+2021-03-15 22:13:51 - Send SIGINT 15668
+2021-03-15 22:13:51 - SIGINT to 15668 failed - Killing as fallback
+2021-03-15 22:13:51 - Finished testserver2.exe
+2021-03-15 22:13:56 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 22:13:57 - Started 7404
+2021-03-15 22:15:32 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 22:15:32 - Started 8416
+2021-03-15 22:20:20 - Stopping testserver2.exe
+2021-03-15 22:20:20 - ProcessKill 8416
+2021-03-15 22:20:20 - Found child process: 19440 Name: conhost.exe
+2021-03-15 22:20:20 - Found child process: 18004 Name: node.exe
+2021-03-15 22:20:20 - Stopping process 19440
+2021-03-15 22:20:20 - Send SIGINT 19440
+2021-03-15 22:20:20 - SIGINT to 19440 failed - Killing as fallback
+2021-03-15 22:20:21 - Stopping process 18004
+2021-03-15 22:20:21 - Send SIGINT 18004
+2021-03-15 22:20:21 - SIGINT to 18004 failed - Killing as fallback
+2021-03-15 22:20:21 - Stopping process 8416
+2021-03-15 22:20:21 - Send SIGINT 8416
+2021-03-15 22:20:21 - SIGINT to 8416 failed - Killing as fallback
+2021-03-15 22:20:21 - Finished testserver2.exe
+2021-03-15 22:20:27 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-15 22:20:27 - Started 18388
+2021-03-16 15:17:00 - Stopping testserver2.exe
+2021-03-16 15:17:00 - ProcessKill 18388
+2021-03-16 15:17:00 - Found child process: 18856 Name: conhost.exe
+2021-03-16 15:17:00 - Found child process: 19432 Name: node.exe
+2021-03-16 15:17:00 - Stopping process 18856
+2021-03-16 15:17:00 - Send SIGINT 18856
+2021-03-16 15:17:00 - SIGINT to 18856 failed - Killing as fallback
+2021-03-16 15:17:00 - Stopping process 19432
+2021-03-16 15:17:00 - Send SIGINT 19432
+2021-03-16 15:17:00 - SIGINT to 19432 failed - Killing as fallback
+2021-03-16 15:17:00 - Stopping process 18388
+2021-03-16 15:17:00 - Send SIGINT 18388
+2021-03-16 15:17:00 - SIGINT to 18388 failed - Killing as fallback
+2021-03-16 15:17:00 - Finished testserver2.exe
+2021-03-16 15:17:08 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-16 15:17:08 - Started 15348
+2021-03-16 15:21:43 - Stopping testserver2.exe
+2021-03-16 15:21:43 - ProcessKill 15348
+2021-03-16 15:21:43 - Found child process: 332 Name: conhost.exe
+2021-03-16 15:21:43 - Found child process: 6544 Name: node.exe
+2021-03-16 15:21:43 - Stopping process 332
+2021-03-16 15:21:43 - Send SIGINT 332
+2021-03-16 15:21:43 - SIGINT to 332 failed - Killing as fallback
+2021-03-16 15:21:43 - Stopping process 6544
+2021-03-16 15:21:43 - Send SIGINT 6544
+2021-03-16 15:21:43 - SIGINT to 6544 failed - Killing as fallback
+2021-03-16 15:21:43 - Stopping process 15348
+2021-03-16 15:21:43 - Send SIGINT 15348
+2021-03-16 15:21:43 - SIGINT to 15348 failed - Killing as fallback
+2021-03-16 15:21:43 - Finished testserver2.exe
+2021-03-16 15:21:52 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-16 15:21:52 - Started 4628
+2021-03-16 15:30:38 - Stopping testserver2.exe
+2021-03-16 15:30:38 - ProcessKill 4628
+2021-03-16 15:30:38 - Found child process: 18696 Name: conhost.exe
+2021-03-16 15:30:38 - Found child process: 10928 Name: node.exe
+2021-03-16 15:30:38 - Stopping process 18696
+2021-03-16 15:30:38 - Send SIGINT 18696
+2021-03-16 15:30:38 - SIGINT to 18696 failed - Killing as fallback
+2021-03-16 15:30:38 - Stopping process 10928
+2021-03-16 15:30:38 - Send SIGINT 10928
+2021-03-16 15:30:38 - SIGINT to 10928 failed - Killing as fallback
+2021-03-16 15:30:38 - Stopping process 4628
+2021-03-16 15:30:38 - Send SIGINT 4628
+2021-03-16 15:30:38 - SIGINT to 4628 failed - Killing as fallback
+2021-03-16 15:30:38 - Finished testserver2.exe
+2021-03-16 15:30:49 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-16 15:30:49 - Started 12248
+2021-03-16 15:36:27 - Stopping testserver2.exe
+2021-03-16 15:36:27 - ProcessKill 12248
+2021-03-16 15:36:27 - Found child process: 19200 Name: conhost.exe
+2021-03-16 15:36:27 - Found child process: 19044 Name: node.exe
+2021-03-16 15:36:27 - Stopping process 19200
+2021-03-16 15:36:27 - Send SIGINT 19200
+2021-03-16 15:36:27 - SIGINT to 19200 failed - Killing as fallback
+2021-03-16 15:36:28 - Stopping process 19044
+2021-03-16 15:36:28 - Send SIGINT 19044
+2021-03-16 15:36:28 - SIGINT to 19044 failed - Killing as fallback
+2021-03-16 15:36:28 - Stopping process 12248
+2021-03-16 15:36:28 - Send SIGINT 12248
+2021-03-16 15:36:28 - SIGINT to 12248 failed - Killing as fallback
+2021-03-16 15:36:28 - Finished testserver2.exe
+2021-03-16 15:36:34 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-16 15:36:34 - Started 16320
+2021-03-16 15:37:18 - Stopping testserver2.exe
+2021-03-16 15:37:18 - ProcessKill 16320
+2021-03-16 15:37:18 - Found child process: 14432 Name: conhost.exe
+2021-03-16 15:37:18 - Found child process: 10904 Name: node.exe
+2021-03-16 15:37:18 - Stopping process 14432
+2021-03-16 15:37:18 - Send SIGINT 14432
+2021-03-16 15:37:18 - SIGINT to 14432 failed - Killing as fallback
+2021-03-16 15:37:18 - Stopping process 10904
+2021-03-16 15:37:18 - Send SIGINT 10904
+2021-03-16 15:37:18 - SIGINT to 10904 failed - Killing as fallback
+2021-03-16 15:37:18 - Stopping process 16320
+2021-03-16 15:37:18 - Send SIGINT 16320
+2021-03-16 15:37:18 - SIGINT to 16320 failed - Killing as fallback
+2021-03-16 15:37:18 - Finished testserver2.exe
+2021-03-16 19:19:17 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-16 19:19:17 - Started 6136
+2021-03-18 18:49:49 - Stopping testserver2.exe
+2021-03-18 18:49:49 - ProcessKill 6136
+2021-03-18 18:49:49 - Found child process: 14128 Name: conhost.exe
+2021-03-18 18:49:49 - Found child process: 16240 Name: node.exe
+2021-03-18 18:49:49 - Stopping process 14128
+2021-03-18 18:49:49 - Send SIGINT 14128
+2021-03-18 18:49:49 - SIGINT to 14128 failed - Killing as fallback
+2021-03-18 18:49:49 - Stopping process 16240
+2021-03-18 18:49:49 - Send SIGINT 16240
+2021-03-18 18:49:49 - SIGINT to 16240 failed - Killing as fallback
+2021-03-18 18:49:49 - Stopping process 6136
+2021-03-18 18:49:49 - Send SIGINT 6136
+2021-03-18 18:49:49 - SIGINT to 6136 failed - Killing as fallback
+2021-03-18 18:49:49 - Finished testserver2.exe
+2021-03-18 18:49:55 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-18 18:49:55 - Started 10268
+2021-03-18 18:53:52 - Stopping testserver2.exe
+2021-03-18 18:53:52 - ProcessKill 10268
+2021-03-18 18:53:53 - Found child process: 416 Name: conhost.exe
+2021-03-18 18:53:53 - Found child process: 11680 Name: node.exe
+2021-03-18 18:53:53 - Stopping process 416
+2021-03-18 18:53:53 - Send SIGINT 416
+2021-03-18 18:53:53 - SIGINT to 416 failed - Killing as fallback
+2021-03-18 18:53:53 - Stopping process 11680
+2021-03-18 18:53:53 - Send SIGINT 11680
+2021-03-18 18:53:53 - SIGINT to 11680 failed - Killing as fallback
+2021-03-18 18:53:53 - Stopping process 10268
+2021-03-18 18:53:53 - Send SIGINT 10268
+2021-03-18 18:53:53 - SIGINT to 10268 failed - Killing as fallback
+2021-03-18 18:53:53 - Finished testserver2.exe
+2021-03-19 19:20:11 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-19 19:20:11 - Started 8964
+2021-03-25 21:33:14 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-25 21:33:14 - Started 376
+2021-03-25 21:38:28 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-25 21:38:28 - Started 18880
+2021-03-25 21:38:36 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-25 21:38:36 - Started 4100
+2021-03-25 21:50:08 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-25 21:50:08 - Started 6248
+2021-03-25 21:50:17 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-25 21:50:17 - Started 2176
+2021-03-25 22:12:38 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-25 22:12:38 - Started 9600
+2021-03-25 22:14:31 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-25 22:14:31 - Started 9464

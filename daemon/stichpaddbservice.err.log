@@ -1,0 +1,162 @@
+node:events:356
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1312:16)
+    at listenInCluster (node:net:1360:12)
+    at Server.listen (node:net:1447:7)
+    at Function.listen (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:226:5)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1339:8)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+node:events:356
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1312:16)
+    at listenInCluster (node:net:1360:12)
+    at Server.listen (node:net:1447:7)
+    at Function.listen (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:226:5)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1339:8)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+node:events:356
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1312:16)
+    at listenInCluster (node:net:1360:12)
+    at Server.listen (node:net:1447:7)
+    at Function.listen (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:226:5)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1339:8)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+node:events:356
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1312:16)
+    at listenInCluster (node:net:1360:12)
+    at Server.listen (node:net:1447:7)
+    at Function.listen (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:226:5)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1339:8)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+node:events:356
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1312:16)
+    at listenInCluster (node:net:1360:12)
+    at Server.listen (node:net:1447:7)
+    at Function.listen (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:226:5)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1339:8)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+node:events:356
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1312:16)
+    at listenInCluster (node:net:1360:12)
+    at Server.listen (node:net:1447:7)
+    at Function.listen (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:226:5)
+    at Module._compile (node:internal/modules/cjs/loader:1108:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1339:8)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:177
+    if (error) throw error;
+               ^
+
+Error: Cannot enqueue Query after fatal error.
+    at Protocol._validateEnqueue (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:212:16)
+    at Protocol._enqueue (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Technologies\React\React-software-apps\StichPad\stichpad-server\index.js:176:6
+    at Layer.handle [as handle_request] (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Technologies\React\React-software-apps\StichPad\stichpad-server\node_modules\express\lib\router\index.js:335:12) {
+  code: 'PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR',
+  fatal: false
+}

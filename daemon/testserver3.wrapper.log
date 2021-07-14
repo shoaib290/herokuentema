@@ -1,0 +1,26 @@
+2021-04-05 13:31:52 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server3 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-05 13:31:52 - Started 7268
+2021-04-06 15:43:32 - Stopping testserver3.exe
+2021-04-06 15:43:32 - ProcessKill 7268
+2021-04-06 15:43:32 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-04-06 15:44:02 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server3 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-06 15:44:02 - Started 6176
+2021-04-07 17:07:48 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server3 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-07 17:07:48 - Started 2088
+2021-04-07 17:11:29 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server3 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-07 17:11:29 - Started 6128
+2021-04-14 21:52:49 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server3 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-14 21:52:49 - Started 5580
+2021-04-18 16:56:22 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Technologies\React\React-software-apps\stichpad-server\node_modules\node-windows\lib\wrapper.js --file D:\Technologies\React\React-software-apps\stichpad-server\index.js --scriptoptions= --log "test-server3 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-18 16:56:22 - Started 6080
