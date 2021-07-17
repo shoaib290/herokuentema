@@ -1,17 +1,22 @@
 const express = require("express");
 const app = express();
 const mysql = require("mysql");
+const data = require('./data.json')
 const cors = require("cors");
+const port = process.env.PORT ||  3009
 
 app.use(cors());
 app.use(express.json());
 
 // const db = mysql.createConnection({
-  // user: "root",
-  // host: "localhost",
-  // password: "Welcome1",
-  // database: "react_schema",
+//   user: "root",
+//   host: "localhost",
+//   password: "Welcome1",
+//   database: "react_schema",
 // });
+app.get("/entema",(req,res)=>{
+  req.send(data);
+})
 
 const db = mysql.createConnection({
   user: "llumacin_userbkp",
@@ -914,7 +919,8 @@ app.get("/getMaxId", (req, res) =>{
 
 
 
-app.listen(3009, () => { console.log("Server is up and running on port 3009");
+app.listen(port,() => {
+  console.log(`Server is up and running on port ${port}`);
 });
 
 module.exports = db;
